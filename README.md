@@ -2,7 +2,7 @@
 Converts pages in a PDF to individual PNGs
 
 # Dependencies
-pip install pdf2image pillow
+pip install pdf2image pillow  
 brew install poppler
 
 # Run
